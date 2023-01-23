@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
 C:\Labs\projects\YouTubeViewers\YouTubeViewers.WPF\App.xaml
-11407045341
+4-248621669
 
-3-1233169557
-1942030480316
-MainWindow.xaml;
+111018373985
+195-1633293489
+Components\YouTubeViewersDetails.xaml;Components\YouTubeViewersListing.xaml;MainWindow.xaml;Views\YouTubeViewersView.xaml;
 
 False
 
