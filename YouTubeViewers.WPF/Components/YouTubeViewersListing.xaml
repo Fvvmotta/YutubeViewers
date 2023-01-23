@@ -20,7 +20,10 @@
                     x:Name="border"
                     Background="White"
                     CornerRadius="5"/>
-                <ListView BorderThickness="0" ItemsSource="{Binding YouTubeViewersListingItemViewModel}">
+                <ListView 
+                    BorderThickness="0" 
+                    ItemsSource="{Binding YouTubeViewersListingItemViewModel}"
+                    SelectedItem="{Binding SelectedYouTubeViewerListingItemViewModel}">
                     <ListView.ItemContainerStyle>
                         <Style TargetType="ListViewItem">
                             <Setter Property="HorizontalContentAlignment" Value="Stretch"/>
